@@ -1,7 +1,7 @@
 # user-auth-system
 This is a node project made with Express framework and MongoDb
-this project contains aplication for uer authorization and authentication 
-verification is done using Session, JWt and email based OTP system 
+this project contains aplication for user authorization and authentication 
+verification is done using Session, JWt and email based OTP system with password recovery and password change fucntionality 
 
 clone this project use HTTPS or SSH link
 make sure NodeJs is installed.
