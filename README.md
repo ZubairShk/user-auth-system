@@ -1,4 +1,8 @@
 # user-auth-system
+This is a node project made with Express framework and MongoDb
+this project contains aplication for uer authorization and authentication 
+verification is done using Session, JWt and email based OTP system 
+
 clone this project use HTTPS or SSH link
 make sure NodeJs is installed.
 
@@ -22,4 +26,5 @@ step 2:
 step 3: 
   Run project by entering command : 
                                   npm start
+                                  
   
